@@ -50,7 +50,7 @@ a_la_carte\
 #### Установите браузеры для Playwright
 `npx playwright install`
 
-# Запуск тестов
+## Запуск тестов
 #### Запуск всех тестов
 `npx playwright test`
 
