@@ -20,7 +20,7 @@ a_la_carte\
 │
 ├── tests\                            # Тестовые спецификации
 │    ├── apiTests\                    # API тесты
-│    │    └── openHomeApi.spec.js
+│    │    └── openHome.spec.js
 │    ├── pomTests\                    # UI тесты с POM (они же e2e)
 │    │    └── openHome.spec.js
 │    └── bddTests\                    # BDD тесты с Cucumber
