@@ -1,0 +1,11 @@
+node_modules/
+test-results/
+.env
+*.log
+*.cache
+*.tmp
+playwright-report/
+debug.log
+.vscode/
+.ds_store
+package-lock.json
